@@ -6,3 +6,6 @@ Learn to do a penguin with HTML, SASS and JavaScript
 
 # Details
 This project is a basic example about JavaScript functions and keyframes animations.
+
+# Live demo
+https://penguin-hello.web.app/
